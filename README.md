@@ -14,7 +14,6 @@ This repository contains a collection of Jupyter Notebooks designed to provide q
 - **Handling Missing Data**: Strategies for dealing with incomplete datasets.
 - **Feature Engineering**: Techniques for creating new features from existing ones.
 - **Model Evaluation**: Assessing the performance of clustering models.
-- **Tic-Tac-Toe AI**: Designing an AI to play Tic-Tac-Toe using basic algorithms.
 - **Overfitting**: Understanding and mitigating overfitting in machine learning models.
 - **Support Vector Machines (SVM)**: Maximizing the margin between support vectors.
 
