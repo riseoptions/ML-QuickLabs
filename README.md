@@ -4,7 +4,7 @@ Welcome to the ML-QuickLabs repository!
 
 This repository contains a collection of Jupyter Notebooks designed to provide quick and practical examples of various machine learning techniques. Each notebook is tailored to demonstrate specific concepts, algorithms, and methods in a concise and hands-on manner.
 
-## Contents
+## Topics
 
 - **Feature Selection**: Techniques and importance of selecting relevant features.
 - **Logistic Regression**: Predicting binary outcomes and interpreting model coefficients.
